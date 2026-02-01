@@ -20,8 +20,3 @@ manual data preprocessing and a Decision Tree classifier.
 ## 📊 Model
 - Algorithm: Decision Tree Classifier
 - Evaluation Metric: Accuracy
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python src/train.py
